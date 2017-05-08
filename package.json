@@ -1,6 +1,6 @@
 {
   "name": "dupejs",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "copy stuff",
   "main": "index.js",
   "scripts": {
