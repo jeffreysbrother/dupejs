@@ -8,6 +8,22 @@
   },
   "author": "james cool",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffreysbrother/doop"
+  },
+  "keywords": [
+    "utility",
+    "commandline",
+    "terminal",
+    "node"
+    "cli",
+    "rename",
+    "directories",
+    "copy"
+    "filename",
+    "yargs"
+  ],
   "dependencies": {
     "shelljs": "^0.7.7",
     "yargs": "^8.0.1"
