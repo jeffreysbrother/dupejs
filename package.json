@@ -1,8 +1,8 @@
 {
-  "name": "doop",
+  "name": "dupejs",
   "version": "1.0.0",
   "description": "copy stuff",
-  "main": "doop.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeffreysbrother/doop"
+    "url": "https://github.com/jeffreysbrother/dupejs"
   },
   "keywords": [
     "utility",
@@ -20,7 +20,8 @@
     "cli",
     "rename",
     "directories",
-    "copy"
+    "duplicate",
+    "copy",
     "filename",
     "yargs"
   ],
