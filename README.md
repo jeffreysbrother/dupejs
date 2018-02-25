@@ -2,6 +2,10 @@
 
 Duplicate a directory and assign it a new name!
 
+## This Package is Outdated and not Very Interesting!
+
+Please use [generator-tcg](https://github.com/jeffreysbrother/generator-tcg) if you are looking for a more feature-rich solution. 
+
 ### instructions
 
 Install Node, and then DupeJS.

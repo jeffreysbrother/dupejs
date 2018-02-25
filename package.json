@@ -1,8 +1,11 @@
 {
   "name": "dupejs",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "copy stuff",
   "main": "index.js",
+  "bin": {
+    "dupejs": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,7 +29,7 @@
     "yargs"
   ],
   "dependencies": {
-    "shelljs": "^0.7.7",
-    "yargs": "^8.0.1"
+    "shelljs": "^0.8.1",
+    "yargs": "^11.0.0"
   }
 }
